@@ -1,0 +1,18 @@
+.my-class {
+  margin: 12px;
+  border: 2px solid black;
+  padding: 4px;
+  background-color: #ba0505;
+}
+
+img {
+  float: left;
+  width: 20%;
+}
+
+.sidebar {
+  width: 30%;
+  float: left;
+  border: 2px dotted black;
+  background-color: #e3f7e6;
+}
